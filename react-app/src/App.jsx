@@ -1,4 +1,4 @@
-
+import Khaled from './Khaled'
 
 function App() {
  
