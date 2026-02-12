@@ -2,7 +2,10 @@ import React from 'react'
 
 const Khaled = () => {
   return (
-    <div>Khaled_montaser</div>
+      <div><h1>hello world in my first wbsite </h1>
+    <h1>design by.Khaled_montaser</h1>
+    
+      </div>
   )
 }
 
